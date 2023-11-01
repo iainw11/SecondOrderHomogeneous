@@ -27,6 +27,7 @@ void QuadSolCount(int a, int b, int c)
 }
 string QuadSolutions(double a, double b, double c)
 {
+  // This solves for the general equation after finding the solution type
   double m1;
   double m2;
   double alpha;
